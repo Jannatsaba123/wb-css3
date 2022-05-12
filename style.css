@@ -1,0 +1,19 @@
+div{
+    height: 300px;
+    width: 300px;
+   
+}
+.text1{
+    background-color: azure;
+    color: darkblue;
+}
+h1{
+    color: burlywood;
+}
+.text2{
+    background-color: beige;
+    color: darkblue;
+}
+.text2 h1{
+    color: tomato;
+}
